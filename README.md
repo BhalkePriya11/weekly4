@@ -7,4 +7,4 @@ Feb23->https://bhalkepriya11.github.io/weekly4/feb21-feb27/feb23/game.html
 Feb24->https://bhalkepriya11.github.io/weekly4/feb21-feb27/feb24/login.html
 
 Feb25-Ass1->https://bhalkepriya11.github.io/weekly4/feb21-feb27/feb25/aanagram.html
-Feb25-Ass2->
+Feb25-Ass2->https://bhalkepriya11.github.io/weekly4/feb21-feb27/feb25/palindrome.html
